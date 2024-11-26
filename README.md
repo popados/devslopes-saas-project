@@ -48,6 +48,18 @@ Loom video for the Saas Project
 
 ***
 
+### DayNum | x/x/20xx - Today
+
+guna make some stuff today
+
+[website](./saas-project-assets/mockups/Desktop%20[1024+].jpg)
+
+website
+
+navbar
+
+***
+
 #### End of Document
 
 ***
